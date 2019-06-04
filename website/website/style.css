@@ -1,0 +1,30 @@
+img {
+  float: center;
+  width: 300px;
+  height: inherit;
+  margin: 20px;
+  border-color: red;
+  border-width: 10px;
+  border-style: dashed;
+  border-radius: 14px;
+}
+
+h1 {
+  color: green;
+  font-family: sans-serif;
+}
+
+h2 {
+  font-family: sans-serif;
+  color: green;
+  border-color: red;
+  border-width: thick;
+  border-style: dashed;
+  border-radius: 12px;
+}
+
+body {
+	background-color: aqua;
+	text-align: inherit;
+}
+

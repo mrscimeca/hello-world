@@ -1,0 +1,36 @@
+<!DOCTYPE html> <!--Tells the doc that it is html -->
+
+<html>
+
+<head>
+<title>CHRIS' WEBSITE</title>
+</head>
+
+
+<body>
+<h1>GEOGRAPHY</h1>
+
+
+<h2>CONTINENTS AND OCEANS</h2>
+<p>The planet earth is made up of 7 contients (Africa, Antarctica Asia, Australia and Oceania, Europe, North America, South America) and 5 oceans (Atlantic, Arctic, Indian, Pacific, Southern). Each one has different sizes and other unique facts that you can explore.</p>
+    
+	<a href="asia.html">
+	<h3>ASIA</h3>
+    
+    <h3>ANTARCTICA</h3>
+    
+    <p>Antarctica consists of 5,400,000 miles squared. The entire country is a frozen tundra, meaning that the only residents are scientists who conduct research there.</p>
+    
+    <h3>AFRICA</h3>
+    
+    <p>The continent of Africa has an area of 11,730,000 miles squared. With a population of 1,225,080,510, theis continent consists of deserts and mountains in the north half, and savannah to the south.The largest country in Africa is Algeria, and the samallest is the Seychelles.</p>
+    
+    <h3>AUSTRALIA AND OCEANIA</h3>
+    
+    <p>Australia, Papua New Guinea, New Zealand, and several small other small island nations, which consists of 3,291,903 squared miles of land, makes up the continent of Australia and Oceania. With a population of 40,117,432 people, the entire continent consists of desert (mainly in Australia), and islands. The largest countries are Australia, Papua New Guinea, and New Zealand, while the smallest country is Nauru.</p>
+	
+	<h3>EUROPE</h3>
+	
+	<p>
+</body>
+</html>
